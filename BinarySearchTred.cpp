@@ -372,12 +372,4 @@ int main(){
 
 return 0;
 }
-/*HW
-1. find sibling of a node;
-2. find child of a node.
-3. calculate height of a tree.
-4. determine whether a binary tree is bst or not.
-5.ancestors of a node.
-6. sucessor of a node.
-7. predecesor of a node.
-*/
+
